@@ -7,8 +7,7 @@
 #
 #
 
-! [test image] (https://wonderfulengineering.com/wp-content/uploads/2014/10/image-wallpaper-15.jpg)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
